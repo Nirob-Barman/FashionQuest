@@ -1,5 +1,3 @@
-
-
 .custom-navbar-bg {
     background-color: #1A187A;
     /* Replace with your desired color code */
@@ -14,6 +12,17 @@
     object-fit: cover;
 } */
 
+.custom-section {
+    background-color: #958AD4;
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+
+.highlighted-text {
+    font-size: 2rem;
+    font-weight: bold;
+}
 
 footer {
     background-color: #0E071B;
