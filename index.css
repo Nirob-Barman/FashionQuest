@@ -12,6 +12,16 @@
     object-fit: cover;
 } */
 
+.custom-carousel {
+    background-color: #F9CCF8;
+}
+
+.shop-now {
+    background-color: #171495;
+    padding: 10px;
+    color: white;
+}
+
 .custom-section {
     background-color: #958AD4;
     color: white;
