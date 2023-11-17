@@ -51,3 +51,9 @@ footer {
 .footer-links li {
     list-style: none;
 }
+
+@media only screen and (max-width:480px) {
+    .custom-mac-air {
+        flex-direction: column-reverse;
+    }
+}
