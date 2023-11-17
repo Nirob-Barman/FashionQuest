@@ -1,6 +1,12 @@
+
+
 .custom-navbar-bg {
     background-color: #1A187A;
     /* Replace with your desired color code */
+}
+
+.navbar-toggler-icon {
+    background-color: white;
 }
 
 /* .card-img-fixed-height {
