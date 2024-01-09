@@ -30,9 +30,9 @@ FashionQuest is a modern and visually appealing e-commerce website template crea
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Nirob-Barman/FashionQuest/
-
-2. Open the `index.html` file in your preferred web browser.
+   git clone https://github.com/Nirob-Barman/FashionQuest.git
+2. Navigate to the project directory: `cd FashionQuest`
+3. Open the `index.html` file in your preferred web browser.
 
 ## Usage
 
